@@ -4,7 +4,7 @@ def greet_user(name: str) -> str:
     Returns a greeting message for the user.
 
     Args:
-        name (str): The name of the user. huy
+        name (str): The name of the user. huy da sưa xong
 
     Returns:
         str: A greeting message.
