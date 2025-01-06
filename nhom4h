@@ -1,7 +1,7 @@
 my-python-project/
 │
 ├── my_python_project/      # Thư mục chứa mã chính
-│   ├── __init__.py         # Để đánh dấu thư mục như một gói Python
+│   ├── __init__.py         # Để đánh dấu thư mục như một gó
 │   └── main.py             # File chính chạy ứng dụng
 │
 ├── tests/                  # Thư mục chứa các bài kiểm tra
