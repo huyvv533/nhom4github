@@ -1,0 +1,14 @@
+my-python-project/
+│
+├── my_python_project/      # Thư mục chứa mã chính
+│   ├── __init__.py         # Để đánh dấu thư mục như một gói Python
+│   └── main.py             # File chính chạy ứng dụng
+│
+├── tests/                  # Thư mục chứa các bài kiểm tra
+│   ├── __init__.py         
+│   └── test_main.py        
+│
+├── .gitignore              # File để bỏ qua các tệp không cần đẩy lên GitHub
+├── requirements.txt        # Liệt kê thư viện cần thiết
+├── README.md               # Mô tả dự án
+└── LICENSE                 # Giấy phép dự án (tuỳ chọn)
